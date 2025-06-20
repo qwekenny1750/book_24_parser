@@ -1,4 +1,5 @@
-# WEB SCRAPPER
+# WEB SCRAPPER ON BEAUTIFULLSOUP
+
 This is a simple scrapper of website 'Book24.ru', which collect all books
 from this website and save them to SQL database Postgresql to save
 all big data. The table includs name, author, publisher and even more information
